@@ -24,6 +24,7 @@ autom4te.cache
 # in-tree configure-generated files
 Makefile
 src/Makefile
+src/protoc.exe
 /config.h
 config.log
 config.status
